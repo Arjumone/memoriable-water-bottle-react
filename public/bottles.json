@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Bottle A",
+      "price": 5.99,
+      "img": "https://pebel.in/cdn/shop/products/IMG_0750copy_1100x.jpg?v=1678796647"
+    },
+    {
+      "id": 2,
+      "name": "Bottle B",
+      "price": 7.99,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdOIdUs5gdUe7U0ay_V1YUVdKh9GCexEbF-uuZGhIVoJG7tPA8TFXc8Qwqfx-P4qFMgLU&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "Bottle C",
+      "price": 4.99,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMGdKNc6E3pKpDFWwjYsXEOvq9LJx4Iv2cyRVwBwrL1a2s0QzQUw6lkJSBiUHCmk3GcKA&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "name": "Bottle D",
+      "price": 6.49,
+      "img": "https://stylecaster.com/wp-content/uploads/2018/07/hydroflask-water-bottle.png?w=568"
+    },
+    {
+      "id": 5,
+      "name": "Bottle E",
+      "price": 8.99,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAnVPA2qUdTgEsNb6PIxvcQe6qYTpZj9QJfXxDt40ahBi5wsGphgU3F3nr5Uw-0YlRKpQ&usqp=CAU"
+    }
+  ]
+  
